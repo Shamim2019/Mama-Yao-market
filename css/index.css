@@ -4,3 +4,7 @@
      text-align: center;
      text-decoration: underline;
  }
+ .navbar navbar-expand-lg navbar-light bg-info{
+ justify-content: space-between;
+ text-align: center;
+ }
