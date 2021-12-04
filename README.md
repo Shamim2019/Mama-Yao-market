@@ -8,6 +8,8 @@ shamim maloba
 Kindly reach out to me through the following contact shamimmaloba@gmail.com phone: +254 792151788
 ## view live
 https://shamim2019.github.io/Mama-Yao-market/
+clone git@github.com:Shamim2019/Mama-Yao-market.git
+
 
 ## Technologies Used
 HTML,
